@@ -1,0 +1,17 @@
+
+# Include C++, Header, and Lua files in language stats
+*.cpp linguist-detectable=true
+*.h linguist-detectable=true
+*.lua linguist-detectable=true
+
+# Exclude binary and media files from language stats
+*.exe linguist-detectable=false
+*.dll linguist-detectable=false
+*.png linguist-detectable=false
+*.jpg linguist-detectable=false
+*.jpeg linguist-detectable=false
+*.bmp linguist-detectable=false
+*.gif linguist-detectable=false
+*.zip linguist-detectable=false
+*.rar linguist-detectable=false
+*.7z linguist-detectable=false
